@@ -53,6 +53,7 @@ public class HttpUtils {
         }
     });
 ```
+#### Exemple pratique : http://www.erenpinaz.com/blog/post/2016/3/consuming-restful-web-service-android-part-2
 
 #### NB :
 
